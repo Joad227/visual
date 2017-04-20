@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\5_SendEmail_Visual_Studio_2013\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Users\User\Desktop\5_SendEmail_Visual_Studio_2013\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\User\Desktop\5_SendEmail_Visual_Studio_2013\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\User\Desktop\5_SendEmail_Visual_Studio_2013\SendEmail\obj\Debug\SendEmail.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\5_SendEmail_Visual_Studio_2013\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\User\Desktop\5_SendEmail_Visual_Studio_2013\SendEmail\obj\Debug\SendEmail.pdb
+C:\Users\User\Desktop\Почта консоль\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Users\User\Desktop\Почта консоль\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\User\Desktop\Почта консоль\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\User\Desktop\Почта консоль\SendEmail\obj\Debug\SendEmail.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Почта консоль\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\User\Desktop\Почта консоль\SendEmail\obj\Debug\SendEmail.pdb
